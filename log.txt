@@ -1,3 +1,4 @@
+f0e988c Task 2.2 implemented
 7cad941 Task 2.1 implemented
 588c1f0 Task 1.2 implemented
 f83b1a5 Task 1.1 implemented
